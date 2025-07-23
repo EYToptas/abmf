@@ -14,7 +14,7 @@ import java.util.concurrent.Executors;
 @Service
 public class LogFileTailService {
 
-    private static final String LOG_FILE_PATH = "kafkaconsumer/lib/logs/kafka-app.log";
+    private static final String LOG_FILE_PATH = "lib/logs/kafka-app.log";
 
     @Autowired
     private BalanceService balanceService;
