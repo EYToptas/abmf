@@ -1,0 +1,649 @@
+2025-07-22 09:36:36.766 [main] INFO  com.kafka.Main - Command line arguments: --topic=chf-to-abmf
+2025-07-22 09:36:36.768 [main] INFO  com.kafka.Main - Command line argument detected: --topic=chf-to-abmf
+2025-07-22 09:36:36.768 [main] INFO  com.kafka.Main - === Kafka Router Başlatıldı ===
+2025-07-22 09:36:36.768 [main] INFO  com.kafka.Main - Kafka Sunucu: 34.38.128.100:9092,9093,9094
+2025-07-22 09:36:36.768 [main] INFO  com.kafka.Main - Kafdrop Dashboard: http://34.38.128.100:9000/
+2025-07-22 09:36:36.768 [main] INFO  com.kafka.Main - Specific Topic: chf-to-abmf - Sadece bu topic dinlenecek
+2025-07-22 09:36:36.768 [main] INFO  com.kafka.Main - ================================
+2025-07-22 09:36:36.770 [main] INFO  com.kafka.Main - === Production Mode - Sadece Consumer'lar Aktif ===
+2025-07-22 09:38:30.125 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 0/0, Success Rate: 100,00%
+2025-07-22 09:38:30.126 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:38:30.127 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 113 seconds
+2025-07-22 09:38:30.127 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 0
+2025-07-22 09:38:30.127 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:38:30.128 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:38:30.128 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 0
+2025-07-22 09:38:30.128 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 0,00%
+2025-07-22 09:38:30.128 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:38:30.129 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:39:00.322 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 0/0, Success Rate: 100,00%
+2025-07-22 09:39:00.323 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:39:00.324 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 143 seconds
+2025-07-22 09:39:00.324 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 0
+2025-07-22 09:39:00.326 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:39:00.326 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:39:00.327 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 0
+2025-07-22 09:39:00.328 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 0,00%
+2025-07-22 09:39:00.328 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:39:00.329 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:39:30.496 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 0/0, Success Rate: 100,00%
+2025-07-22 09:39:30.496 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:39:30.497 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 173 seconds
+2025-07-22 09:39:30.499 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 0
+2025-07-22 09:39:30.500 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:39:30.501 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:39:30.501 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 0
+2025-07-22 09:39:30.502 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 0,00%
+2025-07-22 09:39:30.502 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:39:30.503 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:40:00.726 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 0/0, Success Rate: 100,00%
+2025-07-22 09:40:00.728 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:40:00.732 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 203 seconds
+2025-07-22 09:40:00.732 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 0
+2025-07-22 09:40:00.733 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:40:00.733 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:40:00.734 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 0
+2025-07-22 09:40:00.734 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 0,00%
+2025-07-22 09:40:00.735 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:40:00.736 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:40:30.948 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 0/0, Success Rate: 100,00%
+2025-07-22 09:40:30.948 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:40:30.950 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 234 seconds
+2025-07-22 09:40:30.953 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 0
+2025-07-22 09:40:30.953 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:40:30.954 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:40:30.955 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 0
+2025-07-22 09:40:30.956 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 0,00%
+2025-07-22 09:40:30.956 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:40:30.957 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:42:46.852 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5283941675 | Value: BalanceMessage{timestamp='2025-07-22 06:42:45', msisdn='5283941675', new_minutes=0, new_sms=0, new_data=2118}
+2025-07-22 09:42:56.140 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 06:42:56', msisdn='5455454545', new_minutes=1249, new_sms=376, new_data=5054}
+2025-07-22 09:43:01.225 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5343225337 | Value: BalanceMessage{timestamp='2025-07-22 06:43:00', msisdn='5343225337', new_minutes=500, new_sms=239, new_data=138}
+2025-07-22 09:43:14.645 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5378216540 | Value: BalanceMessage{timestamp='2025-07-22 06:43:14', msisdn='5378216540', new_minutes=0, new_sms=354, new_data=5351}
+2025-07-22 09:43:17.723 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5425978802 | Value: BalanceMessage{timestamp='2025-07-22 06:43:17', msisdn='5425978802', new_minutes=0, new_sms=0, new_data=3305}
+2025-07-22 09:43:24.835 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5551234567 | Value: BalanceMessage{timestamp='2025-07-22 06:43:24', msisdn='5551234567', new_minutes=4, new_sms=0, new_data=14911}
+2025-07-22 09:43:31.936 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5361111111 | Value: BalanceMessage{timestamp='2025-07-22 06:43:31', msisdn='5361111111', new_minutes=1254, new_sms=395, new_data=7041}
+2025-07-22 09:43:35.892 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 06:43:35', msisdn='5455454545', new_minutes=1249, new_sms=368, new_data=5054}
+2025-07-22 09:43:38.964 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 06:43:38', msisdn='5198768787', new_minutes=1114, new_sms=0, new_data=7019}
+2025-07-22 09:43:44.053 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5368120437 | Value: BalanceMessage{timestamp='2025-07-22 06:43:43', msisdn='5368120437', new_minutes=0, new_sms=0, new_data=11}
+2025-07-22 09:43:59.200 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5537813565 | Value: BalanceMessage{timestamp='2025-07-22 06:43:59', msisdn='5537813565', new_minutes=1500, new_sms=390, new_data=8000}
+2025-07-22 09:44:00.208 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 11/11, Success Rate: 100,00%
+2025-07-22 09:44:00.208 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:44:00.212 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 443 seconds
+2025-07-22 09:44:00.212 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 11
+2025-07-22 09:44:00.214 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:44:00.214 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:44:00.215 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 11
+2025-07-22 09:44:00.215 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:44:00.216 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:44:00.216 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 11
+2025-07-22 09:44:00.217 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:44:02.287 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5647812323 | Value: BalanceMessage{timestamp='2025-07-22 06:44:01', msisdn='5647812323', new_minutes=3, new_sms=23, new_data=3326}
+2025-07-22 09:44:04.132 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5397818181 | Value: BalanceMessage{timestamp='2025-07-22 06:44:04', msisdn='5397818181', new_minutes=0, new_sms=31, new_data=23}
+2025-07-22 09:44:23.344 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5341238571 | Value: BalanceMessage{timestamp='2025-07-22 06:44:22', msisdn='5341238571', new_minutes=48, new_sms=107, new_data=2}
+2025-07-22 09:44:30.405 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 14/14, Success Rate: 100,00%
+2025-07-22 09:44:30.405 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:44:30.406 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 473 seconds
+2025-07-22 09:44:30.409 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 14
+2025-07-22 09:44:30.410 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:44:30.411 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:44:30.412 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 14
+2025-07-22 09:44:30.414 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:44:30.415 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:44:30.415 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 14
+2025-07-22 09:44:30.416 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:44:32.482 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5397818181 | Value: BalanceMessage{timestamp='2025-07-22 06:44:31', msisdn='5397818181', new_minutes=0, new_sms=24, new_data=23}
+2025-07-22 09:44:43.575 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 06:44:43', msisdn='5455454545', new_minutes=1245, new_sms=368, new_data=5054}
+2025-07-22 09:44:46.645 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5497213648 | Value: BalanceMessage{timestamp='2025-07-22 06:44:45', msisdn='5497213648', new_minutes=221, new_sms=350, new_data=4518}
+2025-07-22 09:44:55.746 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 06:44:55', msisdn='5198768787', new_minutes=1114, new_sms=0, new_data=6546}
+2025-07-22 09:44:57.640 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5083471659 | Value: BalanceMessage{timestamp='2025-07-22 06:44:57', msisdn='5083471659', new_minutes=17, new_sms=262, new_data=3657}
+2025-07-22 09:45:00.662 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 19/19, Success Rate: 100,00%
+2025-07-22 09:45:00.663 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:45:00.664 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 503 seconds
+2025-07-22 09:45:00.665 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 19
+2025-07-22 09:45:00.668 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:45:00.668 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:45:00.669 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 19
+2025-07-22 09:45:00.670 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:45:00.670 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:45:00.671 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 19
+2025-07-22 09:45:00.672 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:45:05.389 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5425978802 | Value: BalanceMessage{timestamp='2025-07-22 06:45:05', msisdn='5425978802', new_minutes=0, new_sms=0, new_data=2849}
+2025-07-22 09:45:14.653 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 06:45:14', msisdn='5198768787', new_minutes=1090, new_sms=0, new_data=6546}
+2025-07-22 09:45:19.740 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5497213648 | Value: BalanceMessage{timestamp='2025-07-22 06:45:19', msisdn='5497213648', new_minutes=221, new_sms=346, new_data=4518}
+2025-07-22 09:45:26.846 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5064391827 | Value: BalanceMessage{timestamp='2025-07-22 06:45:26', msisdn='5064391827', new_minutes=13, new_sms=69, new_data=18112}
+2025-07-22 09:45:29.867 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5497213648 | Value: BalanceMessage{timestamp='2025-07-22 06:45:28', msisdn='5497213648', new_minutes=174, new_sms=346, new_data=4518}
+2025-07-22 09:45:30.884 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 24/24, Success Rate: 100,00%
+2025-07-22 09:45:30.884 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:45:30.885 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 534 seconds
+2025-07-22 09:45:30.885 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 24
+2025-07-22 09:45:30.888 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:45:30.888 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:45:30.889 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 24
+2025-07-22 09:45:30.890 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:45:30.891 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:45:30.891 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 24
+2025-07-22 09:45:30.892 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:45:31.641 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5497213648 | Value: BalanceMessage{timestamp='2025-07-22 06:45:31', msisdn='5497213648', new_minutes=174, new_sms=344, new_data=4518}
+2025-07-22 09:46:00.857 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 25/25, Success Rate: 100,00%
+2025-07-22 09:46:00.857 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:46:00.859 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 564 seconds
+2025-07-22 09:46:00.859 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 25
+2025-07-22 09:46:00.862 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:46:00.863 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:46:00.864 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 25
+2025-07-22 09:46:00.864 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:46:00.865 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:46:00.865 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 25
+2025-07-22 09:46:00.867 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:46:10.984 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5467899898 | Value: BalanceMessage{timestamp='2025-07-22 06:46:10', msisdn='5467899898', new_minutes=1377, new_sms=0, new_data=6171}
+2025-07-22 09:46:16.073 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5467899898 | Value: BalanceMessage{timestamp='2025-07-22 06:46:15', msisdn='5467899898', new_minutes=1363, new_sms=0, new_data=6171}
+2025-07-22 09:46:25.194 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5378216540 | Value: BalanceMessage{timestamp='2025-07-22 06:46:25', msisdn='5378216540', new_minutes=0, new_sms=344, new_data=5351}
+2025-07-22 09:46:30.243 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 28/28, Success Rate: 100,00%
+2025-07-22 09:46:30.243 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:46:30.244 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 593 seconds
+2025-07-22 09:46:30.247 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 28
+2025-07-22 09:46:30.247 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:46:30.248 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:46:30.249 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 28
+2025-07-22 09:46:30.249 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:46:30.250 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:46:30.250 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 28
+2025-07-22 09:46:30.251 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:46:30.299 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5467899898 | Value: BalanceMessage{timestamp='2025-07-22 06:46:29', msisdn='5467899898', new_minutes=1351, new_sms=0, new_data=6171}
+2025-07-22 09:46:37.400 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5551234567 | Value: BalanceMessage{timestamp='2025-07-22 06:46:36', msisdn='5551234567', new_minutes=4, new_sms=0, new_data=14681}
+2025-07-22 09:46:42.481 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5436903472 | Value: BalanceMessage{timestamp='2025-07-22 06:46:41', msisdn='5436903472', new_minutes=16, new_sms=50, new_data=1000}
+2025-07-22 09:46:49.551 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 06:46:48', msisdn='5198768787', new_minutes=1067, new_sms=0, new_data=6546}
+2025-07-22 09:46:51.152 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5416238091 | Value: BalanceMessage{timestamp='2025-07-22 06:46:51', msisdn='5416238091', new_minutes=1, new_sms=1, new_data=14351}
+2025-07-22 09:47:00.201 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 33/33, Success Rate: 100,00%
+2025-07-22 09:47:00.201 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:47:00.202 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 623 seconds
+2025-07-22 09:47:00.203 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 33
+2025-07-22 09:47:00.205 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:47:00.206 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:47:00.207 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 33
+2025-07-22 09:47:00.207 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:47:00.208 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:47:00.208 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 33
+2025-07-22 09:47:00.209 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:47:04.887 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5537813565 | Value: BalanceMessage{timestamp='2025-07-22 06:47:04', msisdn='5537813565', new_minutes=1500, new_sms=390, new_data=7748}
+2025-07-22 09:47:11.979 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5343225337 | Value: BalanceMessage{timestamp='2025-07-22 06:47:11', msisdn='5343225337', new_minutes=457, new_sms=239, new_data=138}
+2025-07-22 09:47:17.058 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5416238091 | Value: BalanceMessage{timestamp='2025-07-22 06:47:16', msisdn='5416238091', new_minutes=1, new_sms=1, new_data=14146}
+2025-07-22 09:47:20.080 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5341238571 | Value: BalanceMessage{timestamp='2025-07-22 06:47:19', msisdn='5341238571', new_minutes=48, new_sms=97, new_data=2}
+2025-07-22 09:47:23.876 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5378216540 | Value: BalanceMessage{timestamp='2025-07-22 06:47:23', msisdn='5378216540', new_minutes=0, new_sms=337, new_data=5351}
+2025-07-22 09:47:30.915 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 38/38, Success Rate: 100,00%
+2025-07-22 09:47:30.915 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:47:30.917 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 654 seconds
+2025-07-22 09:47:30.920 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 38
+2025-07-22 09:47:30.920 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:47:30.921 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:47:30.922 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 38
+2025-07-22 09:47:30.923 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:47:30.923 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:47:30.924 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 38
+2025-07-22 09:47:30.924 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:47:37.884 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5083471659 | Value: BalanceMessage{timestamp='2025-07-22 06:47:37', msisdn='5083471659', new_minutes=17, new_sms=260, new_data=3657}
+2025-07-22 09:47:40.965 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5083471659 | Value: BalanceMessage{timestamp='2025-07-22 06:47:40', msisdn='5083471659', new_minutes=17, new_sms=259, new_data=3657}
+2025-07-22 09:47:48.064 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5378216540 | Value: BalanceMessage{timestamp='2025-07-22 06:47:47', msisdn='5378216540', new_minutes=0, new_sms=333, new_data=5351}
+2025-07-22 09:47:55.160 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 06:47:54', msisdn='5455454545', new_minutes=1245, new_sms=364, new_data=5054}
+2025-07-22 09:48:00.199 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 42/42, Success Rate: 100,00%
+2025-07-22 09:48:00.199 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:48:00.200 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 683 seconds
+2025-07-22 09:48:00.203 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 42
+2025-07-22 09:48:00.204 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:48:00.205 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:48:00.205 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 42
+2025-07-22 09:48:00.205 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:48:00.207 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:48:00.207 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 42
+2025-07-22 09:48:00.208 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:48:02.279 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5341238571 | Value: BalanceMessage{timestamp='2025-07-22 06:48:01', msisdn='5341238571', new_minutes=48, new_sms=95, new_data=2}
+2025-07-22 09:48:04.135 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5531982764 | Value: BalanceMessage{timestamp='2025-07-22 06:48:04', msisdn='5531982764', new_minutes=2, new_sms=1, new_data=15}
+2025-07-22 09:48:07.219 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5397818181 | Value: BalanceMessage{timestamp='2025-07-22 06:48:06', msisdn='5397818181', new_minutes=0, new_sms=21, new_data=23}
+2025-07-22 09:48:12.301 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 06:48:11', msisdn='5455454545', new_minutes=1245, new_sms=356, new_data=5054}
+2025-07-22 09:48:16.137 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5378216540 | Value: BalanceMessage{timestamp='2025-07-22 06:48:16', msisdn='5378216540', new_minutes=0, new_sms=331, new_data=5351}
+2025-07-22 09:48:27.884 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5378216540 | Value: BalanceMessage{timestamp='2025-07-22 06:48:27', msisdn='5378216540', new_minutes=0, new_sms=326, new_data=5351}
+2025-07-22 09:48:30.921 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 48/48, Success Rate: 100,00%
+2025-07-22 09:48:30.921 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:48:30.925 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 714 seconds
+2025-07-22 09:48:30.926 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 48
+2025-07-22 09:48:30.927 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:48:30.927 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:48:30.928 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 48
+2025-07-22 09:48:30.928 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:48:30.929 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:48:30.929 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 48
+2025-07-22 09:48:30.930 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:48:35.003 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5497213648 | Value: BalanceMessage{timestamp='2025-07-22 06:48:34', msisdn='5497213648', new_minutes=162, new_sms=344, new_data=4518}
+2025-07-22 09:49:00.145 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 49/49, Success Rate: 100,00%
+2025-07-22 09:49:00.145 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:49:00.147 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 743 seconds
+2025-07-22 09:49:00.149 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 49
+2025-07-22 09:49:00.150 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:49:00.150 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:49:00.150 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 49
+2025-07-22 09:49:00.151 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:49:00.151 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:49:00.152 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 49
+2025-07-22 09:49:00.152 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:49:08.276 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5537813565 | Value: BalanceMessage{timestamp='2025-07-22 06:49:07', msisdn='5537813565', new_minutes=1500, new_sms=390, new_data=7635}
+2025-07-22 09:49:13.301 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5397818181 | Value: BalanceMessage{timestamp='2025-07-22 06:49:12', msisdn='5397818181', new_minutes=0, new_sms=15, new_data=23}
+2025-07-22 09:49:14.903 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 06:49:14', msisdn='5198768787', new_minutes=1067, new_sms=0, new_data=6489}
+2025-07-22 09:49:19.986 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5361111111 | Value: BalanceMessage{timestamp='2025-07-22 06:49:19', msisdn='5361111111', new_minutes=1254, new_sms=386, new_data=7041}
+2025-07-22 09:49:23.060 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 06:49:22', msisdn='5455454545', new_minutes=1245, new_sms=347, new_data=5054}
+2025-07-22 09:49:24.884 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5343225337 | Value: BalanceMessage{timestamp='2025-07-22 06:49:24', msisdn='5343225337', new_minutes=457, new_sms=232, new_data=138}
+2025-07-22 09:49:28.058 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 06:49:27', msisdn='5455454545', new_minutes=1202, new_sms=347, new_data=5054}
+2025-07-22 09:49:33.104 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 06:49:32', msisdn='5455454545', new_minutes=1202, new_sms=340, new_data=5054}
+2025-07-22 09:49:40.224 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5416238091 | Value: BalanceMessage{timestamp='2025-07-22 06:49:39', msisdn='5416238091', new_minutes=1, new_sms=0, new_data=14146}
+2025-07-22 09:49:47.311 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5378216540 | Value: BalanceMessage{timestamp='2025-07-22 06:49:46', msisdn='5378216540', new_minutes=0, new_sms=326, new_data=5057}
+2025-07-22 09:49:51.004 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5335970101 | Value: BalanceMessage{timestamp='2025-07-22 06:49:50', msisdn='5335970101', new_minutes=2, new_sms=39, new_data=131}
+2025-07-22 09:49:58.130 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5436903472 | Value: BalanceMessage{timestamp='2025-07-22 06:49:58', msisdn='5436903472', new_minutes=16, new_sms=40, new_data=1000}
+2025-07-22 09:50:03.210 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5343225337 | Value: BalanceMessage{timestamp='2025-07-22 06:50:02', msisdn='5343225337', new_minutes=407, new_sms=232, new_data=138}
+2025-07-22 09:50:06.282 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5343225337 | Value: BalanceMessage{timestamp='2025-07-22 06:50:05', msisdn='5343225337', new_minutes=348, new_sms=232, new_data=138}
+2025-07-22 09:50:10.132 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5361111111 | Value: BalanceMessage{timestamp='2025-07-22 06:50:10', msisdn='5361111111', new_minutes=1254, new_sms=378, new_data=7041}
+2025-07-22 09:50:13.215 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5361111111 | Value: BalanceMessage{timestamp='2025-07-22 06:50:12', msisdn='5361111111', new_minutes=1204, new_sms=378, new_data=7041}
+2025-07-22 09:50:15.128 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5397818181 | Value: BalanceMessage{timestamp='2025-07-22 06:50:15', msisdn='5397818181', new_minutes=0, new_sms=10, new_data=23}
+2025-07-22 09:50:28.884 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5361111111 | Value: BalanceMessage{timestamp='2025-07-22 06:50:28', msisdn='5361111111', new_minutes=1204, new_sms=371, new_data=7041}
+2025-07-22 09:50:33.965 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 06:50:33', msisdn='5455454545', new_minutes=1202, new_sms=339, new_data=5054}
+2025-07-22 09:50:37.034 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5647812323 | Value: BalanceMessage{timestamp='2025-07-22 06:50:36', msisdn='5647812323', new_minutes=3, new_sms=23, new_data=3193}
+2025-07-22 09:50:44.091 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5335970101 | Value: BalanceMessage{timestamp='2025-07-22 06:50:43', msisdn='5335970101', new_minutes=2, new_sms=38, new_data=131}
+2025-07-22 09:50:45.632 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5378216540 | Value: BalanceMessage{timestamp='2025-07-22 06:50:45', msisdn='5378216540', new_minutes=0, new_sms=323, new_data=5057}
+2025-07-22 09:50:50.718 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5551357900 | Value: BalanceMessage{timestamp='2025-07-22 06:50:50', msisdn='5551357900', new_minutes=100, new_sms=50, new_data=144}
+2025-07-22 09:50:53.784 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 06:50:53', msisdn='5198768787', new_minutes=1067, new_sms=0, new_data=6395}
+2025-07-22 09:51:00.819 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 73/73, Success Rate: 100,00%
+2025-07-22 09:51:00.819 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:51:00.821 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 864 seconds
+2025-07-22 09:51:00.823 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 73
+2025-07-22 09:51:00.823 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:51:00.824 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:51:00.825 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 73
+2025-07-22 09:51:00.825 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:51:00.826 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:51:00.826 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 73
+2025-07-22 09:51:00.827 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:51:31.121 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5436903472 | Value: BalanceMessage{timestamp='2025-07-22 06:51:30', msisdn='5436903472', new_minutes=16, new_sms=34, new_data=1000}
+2025-07-22 09:51:40.255 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5436903472 | Value: BalanceMessage{timestamp='2025-07-22 06:51:40', msisdn='5436903472', new_minutes=13, new_sms=34, new_data=1000}
+2025-07-22 09:51:45.345 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5092713684 | Value: BalanceMessage{timestamp='2025-07-22 06:51:44', msisdn='5092713684', new_minutes=3, new_sms=0, new_data=13}
+2025-07-22 09:51:47.251 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5436903472 | Value: BalanceMessage{timestamp='2025-07-22 06:51:47', msisdn='5436903472', new_minutes=13, new_sms=30, new_data=1000}
+2025-07-22 09:51:56.927 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5031829465 | Value: BalanceMessage{timestamp='2025-07-22 06:51:56', msisdn='5031829465', new_minutes=0, new_sms=16, new_data=2}
+2025-07-22 09:51:59.995 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 06:51:59', msisdn='5455454545', new_minutes=1168, new_sms=339, new_data=5054}
+2025-07-22 09:52:03.884 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5361111111 | Value: BalanceMessage{timestamp='2025-07-22 06:52:03', msisdn='5361111111', new_minutes=1204, new_sms=371, new_data=7002}
+2025-07-22 09:52:17.636 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 06:52:17', msisdn='5198768787', new_minutes=1067, new_sms=0, new_data=6251}
+2025-07-22 09:52:22.730 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5551234567 | Value: BalanceMessage{timestamp='2025-07-22 06:52:22', msisdn='5551234567', new_minutes=2, new_sms=0, new_data=14681}
+2025-07-22 09:52:39.856 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5361111111 | Value: BalanceMessage{timestamp='2025-07-22 06:52:38', msisdn='5361111111', new_minutes=1204, new_sms=364, new_data=7002}
+2025-07-22 09:52:41.245 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5378216540 | Value: BalanceMessage{timestamp='2025-07-22 06:52:41', msisdn='5378216540', new_minutes=0, new_sms=323, new_data=4721}
+2025-07-22 09:52:44.330 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5335970101 | Value: BalanceMessage{timestamp='2025-07-22 06:52:43', msisdn='5335970101', new_minutes=2, new_sms=29, new_data=131}
+2025-07-22 09:52:55.434 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5361111111 | Value: BalanceMessage{timestamp='2025-07-22 06:52:55', msisdn='5361111111', new_minutes=1147, new_sms=364, new_data=7002}
+2025-07-22 09:53:00.473 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 86/86, Success Rate: 100,00%
+2025-07-22 09:53:00.474 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:53:00.475 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 983 seconds
+2025-07-22 09:53:00.478 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 86
+2025-07-22 09:53:00.479 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:53:00.480 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:53:00.480 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 86
+2025-07-22 09:53:00.481 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:53:00.481 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:53:00.482 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 86
+2025-07-22 09:53:00.482 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:53:00.538 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5064391827 | Value: BalanceMessage{timestamp='2025-07-22 06:53:00', msisdn='5064391827', new_minutes=13, new_sms=69, new_data=17621}
+2025-07-22 09:53:07.624 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 06:53:07', msisdn='5455454545', new_minutes=1144, new_sms=339, new_data=5054}
+2025-07-22 09:53:12.715 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5361111111 | Value: BalanceMessage{timestamp='2025-07-22 06:53:12', msisdn='5361111111', new_minutes=1147, new_sms=364, new_data=6748}
+2025-07-22 09:53:17.791 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5497213648 | Value: BalanceMessage{timestamp='2025-07-22 06:53:16', msisdn='5497213648', new_minutes=112, new_sms=344, new_data=4518}
+2025-07-22 09:53:21.749 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5301947283 | Value: BalanceMessage{timestamp='2025-07-22 06:53:21', msisdn='5301947283', new_minutes=2, new_sms=2, new_data=107}
+2025-07-22 09:53:24.826 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 06:53:24', msisdn='5455454545', new_minutes=1132, new_sms=339, new_data=5054}
+2025-07-22 09:53:31.909 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5361111111 | Value: BalanceMessage{timestamp='2025-07-22 06:53:31', msisdn='5361111111', new_minutes=1147, new_sms=364, new_data=6579}
+2025-07-22 09:53:41.027 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5647812323 | Value: BalanceMessage{timestamp='2025-07-22 06:53:40', msisdn='5647812323', new_minutes=3, new_sms=13, new_data=3193}
+2025-07-22 09:53:52.460 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5335970101 | Value: BalanceMessage{timestamp='2025-07-22 06:53:52', msisdn='5335970101', new_minutes=2, new_sms=22, new_data=131}
+2025-07-22 09:54:36.131 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5647812323 | Value: BalanceMessage{timestamp='2025-07-22 06:54:36', msisdn='5647812323', new_minutes=3, new_sms=12, new_data=3193}
+2025-07-22 09:54:39.197 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5031829465 | Value: BalanceMessage{timestamp='2025-07-22 06:54:38', msisdn='5031829465', new_minutes=0, new_sms=9, new_data=2}
+2025-07-22 09:54:44.291 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 06:54:43', msisdn='5198768787', new_minutes=1008, new_sms=0, new_data=6251}
+2025-07-22 09:54:48.192 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5397818181 | Value: BalanceMessage{timestamp='2025-07-22 06:54:48', msisdn='5397818181', new_minutes=0, new_sms=2, new_data=23}
+2025-07-22 09:54:53.343 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5378216540 | Value: BalanceMessage{timestamp='2025-07-22 06:54:52', msisdn='5378216540', new_minutes=0, new_sms=323, new_data=4440}
+2025-07-22 09:54:56.382 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5335970101 | Value: BalanceMessage{timestamp='2025-07-22 06:54:55', msisdn='5335970101', new_minutes=2, new_sms=13, new_data=131}
+2025-07-22 09:55:00.131 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5369882365 | Value: BalanceMessage{timestamp='2025-07-22 06:55:00', msisdn='5369882365', new_minutes=56, new_sms=0, new_data=3}
+2025-07-22 09:55:03.204 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5497213648 | Value: BalanceMessage{timestamp='2025-07-22 06:55:02', msisdn='5497213648', new_minutes=74, new_sms=344, new_data=4518}
+2025-07-22 09:55:05.132 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5064391827 | Value: BalanceMessage{timestamp='2025-07-22 06:55:05', msisdn='5064391827', new_minutes=13, new_sms=69, new_data=17593}
+2025-07-22 09:55:10.241 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5467899898 | Value: BalanceMessage{timestamp='2025-07-22 06:55:09', msisdn='5467899898', new_minutes=1319, new_sms=0, new_data=6171}
+2025-07-22 09:55:19.394 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5551234567 | Value: BalanceMessage{timestamp='2025-07-22 06:55:19', msisdn='5551234567', new_minutes=2, new_sms=0, new_data=14343}
+2025-07-22 09:55:22.475 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5335970101 | Value: BalanceMessage{timestamp='2025-07-22 06:55:21', msisdn='5335970101', new_minutes=2, new_sms=12, new_data=131}
+2025-07-22 09:55:29.612 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5083471659 | Value: BalanceMessage{timestamp='2025-07-22 06:55:28', msisdn='5083471659', new_minutes=17, new_sms=259, new_data=3190}
+2025-07-22 09:55:30.623 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 108/108, Success Rate: 100,00%
+2025-07-22 09:55:30.623 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:55:30.624 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 1133 seconds
+2025-07-22 09:55:30.627 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 108
+2025-07-22 09:55:30.627 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:55:30.628 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:55:30.628 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 108
+2025-07-22 09:55:30.629 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:55:30.629 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:55:30.629 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 108
+2025-07-22 09:55:30.630 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:55:34.712 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5064391827 | Value: BalanceMessage{timestamp='2025-07-22 06:55:33', msisdn='5064391827', new_minutes=13, new_sms=69, new_data=17195}
+2025-07-22 09:55:38.628 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5551357900 | Value: BalanceMessage{timestamp='2025-07-22 06:55:38', msisdn='5551357900', new_minutes=48, new_sms=50, new_data=144}
+2025-07-22 09:55:41.700 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5537813565 | Value: BalanceMessage{timestamp='2025-07-22 06:55:41', msisdn='5537813565', new_minutes=1500, new_sms=390, new_data=7298}
+2025-07-22 09:55:43.626 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5497213648 | Value: BalanceMessage{timestamp='2025-07-22 06:55:43', msisdn='5497213648', new_minutes=32, new_sms=344, new_data=4518}
+2025-07-22 09:55:46.709 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5064391827 | Value: BalanceMessage{timestamp='2025-07-22 06:55:46', msisdn='5064391827', new_minutes=7, new_sms=69, new_data=17195}
+2025-07-22 09:55:48.629 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5436903472 | Value: BalanceMessage{timestamp='2025-07-22 06:55:48', msisdn='5436903472', new_minutes=13, new_sms=20, new_data=1000}
+2025-07-22 09:55:51.702 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5361111111 | Value: BalanceMessage{timestamp='2025-07-22 06:55:51', msisdn='5361111111', new_minutes=1147, new_sms=364, new_data=6448}
+2025-07-22 09:55:53.633 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5343225337 | Value: BalanceMessage{timestamp='2025-07-22 06:55:53', msisdn='5343225337', new_minutes=293, new_sms=232, new_data=138}
+2025-07-22 09:56:00.715 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 116/116, Success Rate: 100,00%
+2025-07-22 09:56:00.715 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:56:00.716 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 1163 seconds
+2025-07-22 09:56:00.717 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 116
+2025-07-22 09:56:00.718 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:56:00.718 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:56:00.719 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 116
+2025-07-22 09:56:00.719 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:56:00.720 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:56:00.720 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 116
+2025-07-22 09:56:00.721 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:56:10.843 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5436903472 | Value: BalanceMessage{timestamp='2025-07-22 06:56:09', msisdn='5436903472', new_minutes=10, new_sms=20, new_data=1000}
+2025-07-22 09:56:12.628 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5436903472 | Value: BalanceMessage{timestamp='2025-07-22 06:56:12', msisdn='5436903472', new_minutes=7, new_sms=20, new_data=1000}
+2025-07-22 09:56:15.707 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5436903472 | Value: BalanceMessage{timestamp='2025-07-22 06:56:14', msisdn='5436903472', new_minutes=4, new_sms=20, new_data=1000}
+2025-07-22 09:56:16.717 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5436903472 | Value: BalanceMessage{timestamp='2025-07-22 06:56:15', msisdn='5436903472', new_minutes=1, new_sms=20, new_data=1000}
+2025-07-22 09:56:37.958 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 06:56:37', msisdn='5455454545', new_minutes=1094, new_sms=339, new_data=5054}
+2025-07-22 09:58:30.123 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 121/121, Success Rate: 100,00%
+2025-07-22 09:58:30.123 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:58:30.124 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 1313 seconds
+2025-07-22 09:58:30.126 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 121
+2025-07-22 09:58:30.126 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:58:30.127 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:58:30.127 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 121
+2025-07-22 09:58:30.128 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:58:30.128 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:58:30.129 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 121
+2025-07-22 09:58:30.129 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:59:00.382 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 121/121, Success Rate: 100,00%
+2025-07-22 09:59:00.383 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 09:59:00.384 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 1343 seconds
+2025-07-22 09:59:00.385 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 121
+2025-07-22 09:59:00.386 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 09:59:00.386 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 09:59:00.387 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 121
+2025-07-22 09:59:00.387 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 09:59:00.388 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 09:59:00.388 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 121
+2025-07-22 09:59:00.388 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 09:59:18.645 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5436903472 | Value: BalanceMessage{timestamp='2025-07-22 06:59:17', msisdn='5436903472', new_minutes=0, new_sms=20, new_data=1000}
+2025-07-22 10:00:00.120 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 122/122, Success Rate: 100,00%
+2025-07-22 10:00:00.120 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:00:00.122 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 1403 seconds
+2025-07-22 10:00:00.123 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 122
+2025-07-22 10:00:00.124 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:00:00.128 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:00:00.130 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 122
+2025-07-22 10:00:00.130 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:00:00.131 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:00:00.131 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 122
+2025-07-22 10:00:00.138 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:00:30.458 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 122/122, Success Rate: 100,00%
+2025-07-22 10:00:30.458 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:00:30.463 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 1433 seconds
+2025-07-22 10:00:30.465 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 122
+2025-07-22 10:00:30.466 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:00:30.470 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:00:30.472 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 122
+2025-07-22 10:00:30.474 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:00:30.482 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:00:30.483 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 122
+2025-07-22 10:00:30.488 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:01:00.822 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 122/122, Success Rate: 100,00%
+2025-07-22 10:01:00.822 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:01:00.823 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 1464 seconds
+2025-07-22 10:01:00.827 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 122
+2025-07-22 10:01:00.827 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:01:00.833 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:01:00.833 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 122
+2025-07-22 10:01:00.834 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:01:00.834 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:01:00.835 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 122
+2025-07-22 10:01:00.835 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:03:26.218 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5436903472 | Value: BalanceMessage{timestamp='2025-07-22 07:03:25', msisdn='5436903472', new_minutes=0, new_sms=20, new_data=500}
+2025-07-22 10:03:30.136 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5436903472 | Value: BalanceMessage{timestamp='2025-07-22 07:03:30', msisdn='5436903472', new_minutes=0, new_sms=20, new_data=0}
+2025-07-22 10:05:30.084 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 124/124, Success Rate: 100,00%
+2025-07-22 10:05:30.085 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:05:30.087 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 1733 seconds
+2025-07-22 10:05:30.088 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 124
+2025-07-22 10:05:30.091 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:05:30.091 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:05:30.091 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 124
+2025-07-22 10:05:30.092 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:05:30.092 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:05:30.093 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 124
+2025-07-22 10:05:30.094 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:06:00.385 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 124/124, Success Rate: 100,00%
+2025-07-22 10:06:00.385 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:06:00.386 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 1763 seconds
+2025-07-22 10:06:00.386 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 124
+2025-07-22 10:06:00.388 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:06:00.389 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:06:00.390 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 124
+2025-07-22 10:06:00.390 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:06:00.392 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:06:00.392 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 124
+2025-07-22 10:06:00.393 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:06:30.630 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 124/124, Success Rate: 100,00%
+2025-07-22 10:06:30.632 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:06:30.633 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 1793 seconds
+2025-07-22 10:06:30.636 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 124
+2025-07-22 10:06:30.636 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:06:30.637 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:06:30.638 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 124
+2025-07-22 10:06:30.638 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:06:30.639 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:06:30.639 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 124
+2025-07-22 10:06:30.640 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:07:00.864 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 124/124, Success Rate: 100,00%
+2025-07-22 10:07:00.864 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:07:00.866 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 1824 seconds
+2025-07-22 10:07:00.869 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 124
+2025-07-22 10:07:00.869 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:07:00.871 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:07:00.872 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 124
+2025-07-22 10:07:00.873 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:07:00.873 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:07:00.874 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 124
+2025-07-22 10:07:00.875 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:10:00.149 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 124/124, Success Rate: 100,00%
+2025-07-22 10:10:00.149 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:10:00.150 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 2003 seconds
+2025-07-22 10:10:00.150 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 124
+2025-07-22 10:10:00.154 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:10:00.154 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:10:00.155 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 124
+2025-07-22 10:10:00.155 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:10:00.156 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:10:00.157 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 124
+2025-07-22 10:10:00.157 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:10:30.386 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 124/124, Success Rate: 100,00%
+2025-07-22 10:10:30.386 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:10:30.387 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 2033 seconds
+2025-07-22 10:10:30.387 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 124
+2025-07-22 10:10:30.390 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:10:30.390 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:10:30.392 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 124
+2025-07-22 10:10:30.392 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:10:30.393 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:10:30.394 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 124
+2025-07-22 10:10:30.394 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:11:00.601 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 124/124, Success Rate: 100,00%
+2025-07-22 10:11:00.601 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:11:00.602 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 2063 seconds
+2025-07-22 10:11:00.605 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 124
+2025-07-22 10:11:00.605 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:11:00.606 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:11:00.606 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 124
+2025-07-22 10:11:00.607 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:11:00.607 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:11:00.608 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 124
+2025-07-22 10:11:00.608 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:11:30.783 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 124/124, Success Rate: 100,00%
+2025-07-22 10:11:30.783 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:11:30.784 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 2094 seconds
+2025-07-22 10:11:30.788 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 124
+2025-07-22 10:11:30.788 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:11:30.790 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:11:30.790 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 124
+2025-07-22 10:11:30.791 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:11:30.791 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:11:30.792 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 124
+2025-07-22 10:11:30.792 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:15:00.136 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 124/124, Success Rate: 100,00%
+2025-07-22 10:15:00.136 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:15:00.138 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 2303 seconds
+2025-07-22 10:15:00.140 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 124
+2025-07-22 10:15:00.140 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:15:00.142 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:15:00.142 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 124
+2025-07-22 10:15:00.143 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:15:00.143 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:15:00.144 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 124
+2025-07-22 10:15:00.144 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:15:30.373 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 124/124, Success Rate: 100,00%
+2025-07-22 10:15:30.373 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:15:30.376 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 2333 seconds
+2025-07-22 10:15:30.377 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 124
+2025-07-22 10:15:30.378 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:15:30.379 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:15:30.380 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 124
+2025-07-22 10:15:30.380 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:15:30.381 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:15:30.381 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 124
+2025-07-22 10:15:30.381 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:16:00.589 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 124/124, Success Rate: 100,00%
+2025-07-22 10:16:00.589 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:16:00.590 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 2363 seconds
+2025-07-22 10:16:00.590 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 124
+2025-07-22 10:16:00.593 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:16:00.593 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:16:00.594 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 124
+2025-07-22 10:16:00.594 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:16:00.595 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:16:00.595 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 124
+2025-07-22 10:16:00.595 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:16:18.016 [Thread-1] INFO  com.kafka.Main - Shutdown requested, waiting for consumers to finish...
+2025-07-22 10:16:18.016 [Thread-0] INFO  com.kafka.Main - === Uygulama Kapatılıyor ===
+2025-07-22 10:16:18.018 [Thread-0] INFO  com.kafka.Main - Consumer'lar kapatılıyor...
+2025-07-22 10:16:18.020 [Thread-0] INFO  com.kafka.Main - Kafka bağlantıları temizleniyor...
+2025-07-22 10:16:18.020 [Thread-0] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 124/124, Success Rate: 100,00%
+2025-07-22 10:16:18.021 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:16:18.021 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - Uptime: 2381 seconds
+2025-07-22 10:16:18.021 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 124
+2025-07-22 10:16:18.022 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:16:18.022 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:16:18.022 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 124
+2025-07-22 10:16:18.023 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:16:18.023 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:16:18.024 [Thread-0] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 124
+2025-07-22 10:16:18.024 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:16:18.025 [Thread-0] INFO  com.kafka.Main - Uygulama güvenli şekilde kapatıldı.
+2025-07-22 10:16:18.854 [main] INFO  com.kafka.Main - Main loop terminated, application shutting down...
+2025-07-22 10:16:20.190 [Thread-1] INFO  com.kafka.Main - Consumers closed safely.
+2025-07-22 10:50:37.969 [main] INFO  com.kafka.Main - Command line arguments: --topic=chf-to-abmf
+2025-07-22 10:50:37.972 [main] INFO  com.kafka.Main - Command line argument detected: --topic=chf-to-abmf
+2025-07-22 10:50:37.973 [main] INFO  com.kafka.Main - === Kafka Router Başlatıldı ===
+2025-07-22 10:50:37.974 [main] INFO  com.kafka.Main - Kafka Sunucu: 34.38.128.100:9092,9093,9094
+2025-07-22 10:50:37.975 [main] INFO  com.kafka.Main - Kafdrop Dashboard: http://34.38.128.100:9000/
+2025-07-22 10:50:37.976 [main] INFO  com.kafka.Main - Specific Topic: chf-to-abmf - Sadece bu topic dinlenecek
+2025-07-22 10:50:37.976 [main] INFO  com.kafka.Main - ================================
+2025-07-22 10:50:37.977 [main] INFO  com.kafka.Main - === Production Mode - Sadece Consumer'lar Aktif ===
+2025-07-22 10:50:40.727 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 07:50:40', msisdn='5455454545', new_minutes=1002, new_sms=334, new_data=4495}
+2025-07-22 10:50:41.745 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 07:50:40', msisdn='5198768787', new_minutes=877, new_sms=0, new_data=4048}
+2025-07-22 10:50:42.755 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 07:50:42', msisdn='5455454545', new_minutes=1002, new_sms=325, new_data=4495}
+2025-07-22 10:50:43.762 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5064391827 | Value: BalanceMessage{timestamp='2025-07-22 07:50:43', msisdn='5064391827', new_minutes=2, new_sms=51, new_data=15629}
+2025-07-22 10:50:44.845 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5378216540 | Value: BalanceMessage{timestamp='2025-07-22 07:50:44', msisdn='5378216540', new_minutes=0, new_sms=309, new_data=3368}
+2025-07-22 10:50:47.914 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5425978802 | Value: BalanceMessage{timestamp='2025-07-22 07:50:47', msisdn='5425978802', new_minutes=0, new_sms=0, new_data=1641}
+2025-07-22 10:50:48.933 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5425978802 | Value: BalanceMessage{timestamp='2025-07-22 07:50:48', msisdn='5425978802', new_minutes=0, new_sms=0, new_data=1484}
+2025-07-22 10:50:49.947 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5343225337 | Value: BalanceMessage{timestamp='2025-07-22 07:50:49', msisdn='5343225337', new_minutes=204, new_sms=195, new_data=19}
+2025-07-22 10:50:51.044 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5361111111 | Value: BalanceMessage{timestamp='2025-07-22 07:50:51', msisdn='5361111111', new_minutes=0, new_sms=338, new_data=5192}
+2025-07-22 10:50:56.078 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 07:50:55', msisdn='5198768787', new_minutes=824, new_sms=0, new_data=4048}
+2025-07-22 10:50:59.956 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5416238091 | Value: BalanceMessage{timestamp='2025-07-22 07:50:59', msisdn='5416238091', new_minutes=1, new_sms=0, new_data=13495}
+2025-07-22 10:51:00.966 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 11/11, Success Rate: 100,00%
+2025-07-22 10:51:00.967 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:51:00.968 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 22 seconds
+2025-07-22 10:51:00.970 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 11
+2025-07-22 10:51:00.971 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:51:00.971 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:51:00.972 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 11
+2025-07-22 10:51:00.972 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:51:00.973 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:51:00.974 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 11
+2025-07-22 10:51:00.974 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:51:01.284 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5341238571 | Value: BalanceMessage{timestamp='2025-07-22 07:51:01', msisdn='5341238571', new_minutes=9, new_sms=62, new_data=2}
+2025-07-22 10:51:05.030 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5361111111 | Value: BalanceMessage{timestamp='2025-07-22 07:51:05', msisdn='5361111111', new_minutes=0, new_sms=331, new_data=5192}
+2025-07-22 10:51:06.408 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5343225337 | Value: BalanceMessage{timestamp='2025-07-22 07:51:05', msisdn='5343225337', new_minutes=196, new_sms=195, new_data=19}
+2025-07-22 10:51:07.414 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5497213648 | Value: BalanceMessage{timestamp='2025-07-22 07:51:06', msisdn='5497213648', new_minutes=17, new_sms=318, new_data=3139}
+2025-07-22 10:51:08.425 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 07:51:07', msisdn='5455454545', new_minutes=1002, new_sms=316, new_data=4495}
+2025-07-22 10:51:09.431 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5064391827 | Value: BalanceMessage{timestamp='2025-07-22 07:51:07', msisdn='5064391827', new_minutes=2, new_sms=51, new_data=15213}
+2025-07-22 10:51:10.450 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5378216540 | Value: BalanceMessage{timestamp='2025-07-22 07:51:09', msisdn='5378216540', new_minutes=0, new_sms=309, new_data=3182}
+2025-07-22 10:51:11.777 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5343225337 | Value: BalanceMessage{timestamp='2025-07-22 07:51:11', msisdn='5343225337', new_minutes=164, new_sms=195, new_data=19}
+2025-07-22 10:51:15.524 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5647812323 | Value: BalanceMessage{timestamp='2025-07-22 07:51:15', msisdn='5647812323', new_minutes=3, new_sms=0, new_data=2419}
+2025-07-22 10:51:20.609 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 07:51:19', msisdn='5198768787', new_minutes=782, new_sms=0, new_data=4048}
+2025-07-22 10:51:23.681 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5343225337 | Value: BalanceMessage{timestamp='2025-07-22 07:51:23', msisdn='5343225337', new_minutes=164, new_sms=190, new_data=19}
+2025-07-22 10:51:26.754 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5537813565 | Value: BalanceMessage{timestamp='2025-07-22 07:51:26', msisdn='5537813565', new_minutes=1308, new_sms=362, new_data=6596}
+2025-07-22 10:51:27.769 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 07:51:27', msisdn='5455454545', new_minutes=973, new_sms=316, new_data=4495}
+2025-07-22 10:51:30.798 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 24/24, Success Rate: 100,00%
+2025-07-22 10:51:30.799 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:51:30.801 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 52 seconds
+2025-07-22 10:51:30.803 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 24
+2025-07-22 10:51:30.804 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:51:30.805 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:51:30.806 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 24
+2025-07-22 10:51:30.806 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:51:30.808 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:51:30.809 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 24
+2025-07-22 10:51:30.809 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:51:30.862 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5083471659 | Value: BalanceMessage{timestamp='2025-07-22 07:51:30', msisdn='5083471659', new_minutes=1, new_sms=250, new_data=2595}
+2025-07-22 10:51:31.879 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5497213648 | Value: BalanceMessage{timestamp='2025-07-22 07:51:31', msisdn='5497213648', new_minutes=17, new_sms=310, new_data=3139}
+2025-07-22 10:51:32.895 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5537813565 | Value: BalanceMessage{timestamp='2025-07-22 07:51:31', msisdn='5537813565', new_minutes=1308, new_sms=353, new_data=6596}
+2025-07-22 10:51:35.962 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 07:51:35', msisdn='5198768787', new_minutes=775, new_sms=0, new_data=4048}
+2025-07-22 10:51:37.280 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5537813565 | Value: BalanceMessage{timestamp='2025-07-22 07:51:37', msisdn='5537813565', new_minutes=1251, new_sms=353, new_data=6596}
+2025-07-22 10:51:42.385 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5341238571 | Value: BalanceMessage{timestamp='2025-07-22 07:51:41', msisdn='5341238571', new_minutes=9, new_sms=55, new_data=2}
+2025-07-22 10:51:44.030 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5455454545 | Value: BalanceMessage{timestamp='2025-07-22 07:51:44', msisdn='5455454545', new_minutes=973, new_sms=316, new_data=4074}
+2025-07-22 10:51:45.084 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 07:51:44', msisdn='5198768787', new_minutes=775, new_sms=0, new_data=3572}
+2025-07-22 10:51:47.025 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5551357900 | Value: BalanceMessage{timestamp='2025-07-22 07:51:47', msisdn='5551357900', new_minutes=3, new_sms=5, new_data=144}
+2025-07-22 10:51:50.277 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5083471659 | Value: BalanceMessage{timestamp='2025-07-22 07:51:50', msisdn='5083471659', new_minutes=1, new_sms=240, new_data=2595}
+2025-07-22 10:51:51.342 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5467899898 | Value: BalanceMessage{timestamp='2025-07-22 07:51:50', msisdn='5467899898', new_minutes=1137, new_sms=0, new_data=5612}
+2025-07-22 10:51:54.520 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5537813565 | Value: BalanceMessage{timestamp='2025-07-22 07:51:54', msisdn='5537813565', new_minutes=1251, new_sms=353, new_data=6385}
+2025-07-22 10:51:56.134 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5064391827 | Value: BalanceMessage{timestamp='2025-07-22 07:51:56', msisdn='5064391827', new_minutes=2, new_sms=51, new_data=14778}
+2025-07-22 10:51:57.274 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 07:51:57', msisdn='5198768787', new_minutes=775, new_sms=0, new_data=3543}
+2025-07-22 10:51:58.326 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5467899898 | Value: BalanceMessage{timestamp='2025-07-22 07:51:58', msisdn='5467899898', new_minutes=1092, new_sms=0, new_data=5612}
+2025-07-22 10:51:59.773 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5378216540 | Value: BalanceMessage{timestamp='2025-07-22 07:51:59', msisdn='5378216540', new_minutes=0, new_sms=309, new_data=3082}
+2025-07-22 10:52:00.776 [main] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 40/40, Success Rate: 100,00%
+2025-07-22 10:52:00.776 [main] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:52:00.777 [main] INFO  com.kafka.metrics.MetricsCollector - Uptime: 82 seconds
+2025-07-22 10:52:00.777 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 40
+2025-07-22 10:52:00.777 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:52:00.778 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:52:00.778 [main] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 40
+2025-07-22 10:52:00.778 [main] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:52:00.778 [main] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:52:00.779 [main] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 40
+2025-07-22 10:52:00.779 [main] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:52:02.888 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5416238091 | Value: BalanceMessage{timestamp='2025-07-22 07:52:02', msisdn='5416238091', new_minutes=1, new_sms=0, new_data=13466}
+2025-07-22 10:52:04.518 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5425978802 | Value: BalanceMessage{timestamp='2025-07-22 07:52:04', msisdn='5425978802', new_minutes=0, new_sms=0, new_data=1252}
+2025-07-22 10:52:06.274 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5537813565 | Value: BalanceMessage{timestamp='2025-07-22 07:52:06', msisdn='5537813565', new_minutes=1251, new_sms=353, new_data=6069}
+2025-07-22 10:52:07.338 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 07:52:07', msisdn='5198768787', new_minutes=775, new_sms=0, new_data=3454}
+2025-07-22 10:52:08.355 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5537813565 | Value: BalanceMessage{timestamp='2025-07-22 07:52:07', msisdn='5537813565', new_minutes=1251, new_sms=348, new_data=6069}
+2025-07-22 10:52:11.427 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5467899898 | Value: BalanceMessage{timestamp='2025-07-22 07:52:11', msisdn='5467899898', new_minutes=1039, new_sms=0, new_data=5612}
+2025-07-22 10:52:12.481 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5198768787 | Value: BalanceMessage{timestamp='2025-07-22 07:52:12', msisdn='5198768787', new_minutes=775, new_sms=0, new_data=3177}
+2025-07-22 10:52:14.024 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5378216540 | Value: BalanceMessage{timestamp='2025-07-22 07:52:14', msisdn='5378216540', new_minutes=0, new_sms=305, new_data=3082}
+2025-07-22 10:52:15.336 [Thread-1] INFO  com.kafka.Main - Shutdown requested, waiting for consumers to finish...
+2025-07-22 10:52:15.337 [Thread-0] INFO  com.kafka.Main - === Uygulama Kapatılıyor ===
+2025-07-22 10:52:15.338 [Thread-0] INFO  com.kafka.Main - Consumer'lar kapatılıyor...
+2025-07-22 10:52:15.341 [Thread-0] INFO  com.kafka.Main - Kafka bağlantıları temizleniyor...
+2025-07-22 10:52:15.341 [Thread-0] INFO  com.kafka.health.HealthChecker - Health Check - Status: UP, Messages: 48/48, Success Rate: 100,00%
+2025-07-22 10:52:15.342 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - === Metrics Report ===
+2025-07-22 10:52:15.342 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - Uptime: 97 seconds
+2025-07-22 10:52:15.343 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - Messages Processed: 48
+2025-07-22 10:52:15.343 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - Messages Failed: 0
+2025-07-22 10:52:15.344 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - Messages Sent: 0
+2025-07-22 10:52:15.344 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - Messages Received: 48
+2025-07-22 10:52:15.345 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - Success Rate: 100,00%
+2025-07-22 10:52:15.345 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - Topic Message Counts:
+2025-07-22 10:52:15.346 [Thread-0] INFO  com.kafka.metrics.MetricsCollector -   chf-to-abmf: 48
+2025-07-22 10:52:15.346 [Thread-0] INFO  com.kafka.metrics.MetricsCollector - =====================
+2025-07-22 10:52:15.347 [Thread-0] INFO  com.kafka.Main - Uygulama güvenli şekilde kapatıldı.
+2025-07-22 10:52:15.782 [main] INFO  com.kafka.Main - Topic: chf-to-abmf | Key: 5341238571 | Value: BalanceMessage{timestamp='2025-07-22 07:52:15', msisdn='5341238571', new_minutes=9, new_sms=45, new_data=2}
+2025-07-22 10:52:16.788 [main] INFO  com.kafka.Main - Main loop terminated, application shutting down...
+2025-07-22 10:52:17.538 [Thread-1] INFO  com.kafka.Main - Consumers closed safely.
