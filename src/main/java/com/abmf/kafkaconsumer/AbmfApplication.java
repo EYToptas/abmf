@@ -2,10 +2,12 @@ package com.abmf.kafkaconsumer;
 
 
 import ch.qos.logback.core.model.processor.ModelInterpretationContext;
+import com.abmf.kafkaconsumer.service.KafkaJarStarter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import jakarta.annotation.PostConstruct;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.messaging.handler.annotation.Payload;
 import com.fasterxml.jackson.databind.JsonNode;
@@ -23,15 +25,21 @@ public class AbmfApplication implements CommandLineRunner {
 		//context.setConfiguratorSupplier();
 	}
 
+	@PostConstruct
+	public void init() {
+		KafkaJarStarter.startKafkaConsumer();
+	}
+
+
 	@Override
 	public void run(String... args) {
 
 	}
-
+	/*
 	@KafkaListener(topics = "chf-to-abmf", groupId = "abmf-consumer")
 	public void listen(@Payload String message) {
 		try {
-			System.out.println("Kafka'dan gelen mesaj: " + message);
+			//System.out.println("Kafka'dan gelen mesaj: " + message);
 
 			ObjectMapper mapper = new ObjectMapper();
 			JsonNode json = mapper.readTree(message);
@@ -46,5 +54,8 @@ public class AbmfApplication implements CommandLineRunner {
 			System.err.println("Mesaj işlenirken hata oluştu: " + e.getMessage());
 			e.printStackTrace();
 		}
+
+
 	}
+	*/
 }
